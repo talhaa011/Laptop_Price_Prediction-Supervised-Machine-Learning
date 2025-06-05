@@ -73,4 +73,4 @@ The dataset contains various specifications of laptops including their prices. F
 For any questions or collaboration, feel free to connect:
 
 - 📧 **Email**: muhammadtalha3589@gmail.com  
-- 💼 **LinkedIn**: [Muhammad Talha Sial](https://www.linkedin.com/in/muhammad-talha-sial/)
+- 💼 **LinkedIn**: https://www.linkedin.com/in/muhammad-talha-sial/
